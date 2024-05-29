@@ -1,3 +1,7 @@
+**Example:**
+
+https://www.youtube.com/watch?v=pHBo4j6OMmk
+
 **Overview**
 
 This library provides a collection of functions to be used in Max MSP patches for generating musical patterns, rhythms, and transformations. 
